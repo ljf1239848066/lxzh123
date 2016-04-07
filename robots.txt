@@ -1,0 +1,35 @@
+#
+# robots.txt for ljf1239848066
+#
+
+User-agent: *
+Disallow: /app/
+Disallow: /css/
+Disallow: /images/
+Disallow: /js/
+Disallow: /personal/
+Disallow: /cmd.php
+Disallow: /cmd.txt
+Disallow: /command.php
+Disallow: /command1.php
+Disallow: /config.yaml
+Disallow: /favicon.ico
+Disallow: /index.html
+Disallow: /index_135.html
+Disallow: /index_136.html
+Disallow: /index_137.html
+Disallow: /index_138.html
+Disallow: /index_139.html
+Disallow: /index_140.html
+Disallow: /index_141.html
+Disallow: /index_142.html
+Disallow: /index_search.html
+Disallow: /mapCard.html
+Disallow: /tc_verify.txt
+Disallow: /forum.php?mod=redirect*
+Disallow: /forum.php?mod=post*
+Disallow: /home.php?mod=spacecp*
+Disallow: /userapp.php?mod=app&*
+Disallow: /*?mod=misc*
+Disallow: /*?mod=attachment*
+Disallow: /*mobile=yes*
